@@ -1,1 +1,2 @@
 # CODSOFT-Movie-Rating-Prediction-using-Python
+This project predicts movie ratings based on various features using machine learning models. It utilizes Python libraries such as Pandas, Scikit-learn, and Matplotlib for data processing, model training, and visualization. The dataset includes movie attributes like genre, director, and cast. The goal is to predict ratings using regression techniques. Run the script to preprocess data, train the model, and evaluate prediction accuracy.
